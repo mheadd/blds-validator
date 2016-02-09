@@ -1,0 +1,14 @@
+# Required fields for the BLDS standard.
+# https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements#required
+---
+  - "PermitNum"
+  - "Description"
+  - "AppliedDate"
+  - "IssuedDate"
+  - "CompletedDate"
+  - "StatusCurrent"
+  - "OriginalAddress1"
+  - "OriginalAddress2"
+  - "OriginalCity"
+  - "OriginalState"
+  - "OriginalZip"
